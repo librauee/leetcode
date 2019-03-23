@@ -1,5 +1,3 @@
 # leetcode
-
-##language:python
-
-###First:Array
+language:python
+## First:Array
