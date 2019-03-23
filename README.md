@@ -1,3 +1,5 @@
 # leetcode
-language:python
-## First:Array
+
+Language:Python3
+
+## FirstSeries:Array
