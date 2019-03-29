@@ -11,7 +11,7 @@ Created on Fri Mar 29 20:20:23 2019
 
 #1.使用模块
 #my_singleton.py
-'''
+
 class My_Singleton(object):
     def foo(self):
         pass
@@ -20,7 +20,7 @@ my_singleton=My_Singleton()
 
 from mysingleton import my_singleton
 my_singleton.foo()
-'''
+
 
 #2.使用__new__
 class Singleton(object):
