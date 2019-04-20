@@ -1,4 +1,4 @@
-# leetcode
+# Leetcode
 
 Language:Python3
 
