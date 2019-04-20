@@ -2,4 +2,12 @@
 
 Language:Python3
 
-## FirstSeries:Array
+* Array
+
+* Linked_List
+
+* Math
+
+* String
+
+* Tree
