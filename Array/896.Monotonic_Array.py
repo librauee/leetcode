@@ -21,7 +21,7 @@ class Solution:
         else:
             return False
         
-#orther solution        
+#other solution        
 class Solution2(object):
     def isMonotonic(self, A):
         """
