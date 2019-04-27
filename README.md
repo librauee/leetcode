@@ -18,17 +18,16 @@ Language:Python3
  |509|   [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)  |  [Python3](https://github.com/librauee/leetcode/blob/master/Array/509.Fibonacci_Number.py)     | Easy    |                  
  |561|   [Array Partition I](https://leetcode.com/problems/array-partition-i/)  |  [Python3](https://github.com/librauee/leetcode/blob/master/Array/561.Array_Partition_I.py)    |  Easy   |                  
  |566|   [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)  |  [Python3](https://github.com/librauee/leetcode/blob/master/Array/566.Reshape_the_Matrix.py)     |  Easy   |                  
- |766|   [Remove Duplicates from Sorted Array]()  |  [Python3]()     |  Easy    |                  
- |832|   [Remove Duplicates from Sorted Array]()  |  [Python3]()     |   Easy  |                  
- |867|   [Remove Duplicates from Sorted Array]()  |  [Python3]()     |   Easy   |                  
- |888|   [Remove Duplicates from Sorted Array]()  |  [Python3]()      | Easy   |                  
- |896|   [Remove Duplicates from Sorted Array]() |  [Python3]()     |  Easy    |                  
- |485|   [Remove Duplicates from Sorted Array]()  |  [Python3]()     |   Easy    |                  
- |905|   [Remove Duplicates from Sorted Array]()  |  [Python3]()     |   Easy   |                  
- |922|   [Remove Duplicates from Sorted Array]()  |  [Python3]()     |   Easy    |                  
- |977|   [Remove Duplicates from Sorted Array]()  |  [Python3]()     |   Easy    |                  
- |985|   [Remove Duplicates from Sorted Array]()  |  [Python3]()    |   Easy    |                  
- |1002|   [Remove Duplicates from Sorted Array]()  |  [Python3]()    |   Easy   |                  
+ |766|   [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)  |  [Python3]()     |  Easy    |                  
+ |832|   [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)  |  [Python3]()     |   Easy  |                  
+ |867|   [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)  |  [Python3]()     |   Easy   |                  
+ |888|   [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)  |  [Python3]()      | Easy   |                  
+ |896|   [Monotonic Array](https://leetcode.com/problems/monotonic-array/) |  [Python3]()     |  Easy    |                                   
+ |905|   [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)  |  [Python3]()     |   Easy   |                  
+ |922|   [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)  |  [Python3]()     |   Easy    |                  
+ |977|   [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)  |  [Python3]()     |   Easy    |                  
+ |985|   [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)  |  [Python3]()    |   Easy    |                  
+ |1002|   [Find Common Characters](https://leetcode.com/problems/find-common-characters/)  |  [Python3]()    |   Easy   |                  
  
 
 * Linked_List
