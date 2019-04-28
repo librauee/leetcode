@@ -47,7 +47,7 @@ Language:Python3
  |231|   [Power of Two](https://leetcode.com/problems/power-of-two/)  |  [Python3](https://github.com/librauee/leetcode/blob/master/Array/566.Reshape_the_Matrix.py)     |  Easy   |                  
  |258|   [Add Digits](https://leetcode.com/problems/add-digits/)  |  [Python3](https://github.com/librauee/leetcode/blob/master/Array/766.Toeplitz_Matrix.py)     |  Easy    |                  
  |263|   [Ugly Number](https://leetcode.com/problems/ugly-number/)  |  [Python3](https://github.com/librauee/leetcode/blob/master/Array/832.Flipping_Image.py)     |   Easy  |                  
- |268|   [Missing Number]https://leetcode.com/problems/missing-number/)  |  [Python3](https://github.com/librauee/leetcode/blob/master/Array/867.Transpose_Matrix.py)     |   Easy   |                  
+ |268|   [Missing Number](https://leetcode.com/problems/missing-number/)  |  [Python3](https://github.com/librauee/leetcode/blob/master/Array/867.Transpose_Matrix.py)     |   Easy   |                  
  |326|   [Power of Three](https://leetcode.com/problems/power-of-three/)  |  [Python3](https://github.com/librauee/leetcode/blob/master/Array/888.Fair_Candy_Swap.py)      | Easy   |                  
  |367|   [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) |  [Python3](https://github.com/librauee/leetcode/blob/master/Array/896.Monotonic_Array.py)     |  Easy    |                                   
  |400|   [Nth Digit](https://leetcode.com/problems/nth-digit/)  |  [Python3](https://github.com/librauee/leetcode/blob/master/Array/905.Sort_Array_By_Parity.py)     |   Easy   |                  
@@ -58,15 +58,15 @@ Language:Python3
 
 |  Number |   Problem | Solution  |  Difficulty  | 
  |:------:|:------:|:------:|:------:|
- |13|    [Two Sum](https://leetcode.com/problems/two-sum/) |   [Python3](https://github.com/librauee/leetcode/blob/master/Array/1.two_sum.py)  |   Easy   |                  
- |14|   [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |   [Python3](https://github.com/librauee/leetcode/blob/master/Array/26.remove_duplicates.py)    |   Easy    |                 
- |20|   [Remove Element](https://leetcode.com/problems/remove-element/)  |   [Python3](https://github.com/librauee/leetcode/blob/master/Array/27.remove_element.py)    |   Easy   |   
- |28|   [Remove Element](https://leetcode.com/problems/remove-element/)  |   [Python3](https://github.com/librauee/leetcode/blob/master/Array/27.remove_element.py)    |   Easy   |   
- |38|   [Search Insert Position](https://leetcode.com/problems/search-insert-position/)  |   [Python3](https://github.com/librauee/leetcode/blob/master/Array/35.search_insert_position.py)   |   Easy   |                  
- |58|   [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  |   [Python3](https://github.com/librauee/leetcode/blob/master/Array/53.Maximum_Subarray.py)    |   Easy   |                  
- |67|   [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)  |  [Python3](https://github.com/librauee/leetcode/blob/master/Array/485.Max_Consecutive_Ones.py)   |   Easy    |                  
- |125|   [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)  |  [Python3](https://github.com/librauee/leetcode/blob/master/Array/509.Fibonacci_Number.py)     | Easy    |                  
- |344|   [Array Partition I](https://leetcode.com/problems/array-partition-i/)  |  [Python3](https://github.com/librauee/leetcode/blob/master/Array/561.Array_Partition_I.py)    |  Easy   |                  
+ |13|    [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) |   [Python3](https://github.com/librauee/leetcode/blob/master/Array/1.two_sum.py)  |   Easy   |                  
+ |14|   [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) |   [Python3](https://github.com/librauee/leetcode/blob/master/Array/26.remove_duplicates.py)    |   Easy    |                 
+ |20|   [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)  |   [Python3](https://github.com/librauee/leetcode/blob/master/Array/27.remove_element.py)    |   Easy   |   
+ |28|   [Implement strStr()](https://leetcode.com/problems/implement-strstr/)  |   [Python3](https://github.com/librauee/leetcode/blob/master/Array/27.remove_element.py)    |   Easy   |   
+ |38|   [Count and Say](https://leetcode.com/problems/count-and-say/)  |   [Python3](https://github.com/librauee/leetcode/blob/master/Array/35.search_insert_position.py)   |   Easy   |                  
+ |58|   [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)  |   [Python3](https://github.com/librauee/leetcode/blob/master/Array/53.Maximum_Subarray.py)    |   Easy   |                  
+ |67|   [Add Binary](https://leetcode.com/problems/add-binary/)  |  [Python3](https://github.com/librauee/leetcode/blob/master/Array/485.Max_Consecutive_Ones.py)   |   Easy    |                  
+ |125|   [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)  |  [Python3](https://github.com/librauee/leetcode/blob/master/Array/509.Fibonacci_Number.py)     | Easy    |                  
+ |344|   [Reverse String](https://leetcode.com/problems/reverse-string/)  |  [Python3](https://github.com/librauee/leetcode/blob/master/Array/561.Array_Partition_I.py)    |  Easy   |                  
  
 
 
