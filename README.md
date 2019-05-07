@@ -32,6 +32,15 @@ Language:Python3
 
 * Linked_List
 
+|  Number |   Problem | Solution  |  Difficulty  | 
+ |:------:|:------:|:------:|:------:|
+ |2|    [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |   [Python3](https://github.com/librauee/leetcode/blob/master/Linked_List/2.Add_Two_Numbers.py)  |   Medium   |                  
+ |19|   [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |   [Python3](https://github.com/librauee/leetcode/blob/master/Linked_List/19.Remove_Nth_Node_From_End_of_List.py)    |   Medium    |                 
+ |21|   [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  |   [Python3](https://github.com/librauee/leetcode/blob/master/Linked_List/21.Merge_Two_Sorted_Lists.py)    |   Medium    |                  
+ |24|   [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)  |   [Python3](https://github.com/librauee/leetcode/blob/master/Linked_List/24.Swap_Nodes_in_Pairs.py)   |   Easy   |                  
+ |206|   [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)  |   [Python3](https://github.com/librauee/leetcode/blob/master/Linked_List/206.Reverse_Linked_List.py)    |   Easy   |                  
+
+
 * Math
 
 |  Number |   Problem | Solution  |  Difficulty  | 
