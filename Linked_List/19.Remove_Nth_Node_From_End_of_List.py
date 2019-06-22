@@ -23,3 +23,20 @@ class Solution:
             l1,l2 = l1.next,l2.next
         l1.next = l1.next.next
         return res.next
+    
+class Solution:
+    def removeNthFromEnd(self, head: ListNode, n: int) -> ListNode:
+        Node=[]
+        while head:
+            Node.append(head)
+            head=head.next
+        n=len(Node)-n
+        if n==0:
+            if len(Node)>1:
+                Node[0].val=Node[1].val
+                Node[0].next=Node[1].next
+            else:
+                return None
+        else:
+            Node[n-1].next=Node[n].next
+        return Node[0]
