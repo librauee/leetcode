@@ -11,6 +11,8 @@ Created on Sun Jun 23 08:13:28 2019
 #         self.val = x
 #         self.next = None
 
+# 快指针走两步慢指针走一步，若相遇则存在环
+
 class Solution(object):
     def hasCycle(self, head):
         """
