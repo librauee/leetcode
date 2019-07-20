@@ -1,3 +1,4 @@
+![Hits](https://www.smirkcao.info/hit_gits/leetcode/README.md)
 # Leetcode
 
  Most of problems have different solutions and the solutions beat over 80% .
